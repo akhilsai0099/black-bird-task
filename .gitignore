@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+commands.sh
 # production
 /build
 
